@@ -15,7 +15,7 @@ Este projeto é uma implementação de uma Pokedex usando HTML, CSS e JavaScript
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/pokedex.git
+   [git clone https://github.com/GustaTuga/Pokedex.git]
    ```
 
 2. Navegue até o diretório do projeto:
